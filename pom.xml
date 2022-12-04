@@ -2,11 +2,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>calculator</groupId>
-  <artifactId>addition</artifactId>
-  <version>1.0</version>
+  <groupId>vijayalakshmi</groupId>
+  <artifactId>tejaswini/artifactId>
+	  <version>1710</version>
 
-  <name>calculator_addition</name>
+  <name>tejaswini</name>
 
   <properties>
 	  <maven.compiler.source>1.6</maven.compiler.source>
