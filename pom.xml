@@ -2,15 +2,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>anjaneyulu</groupI
-  <artifactId>anusha</artiifactId>
-  <version>111197</version>
- <groupId>anusha</groupId>
-  <artifactId>t-2 originators</artifactId>
-  <version>007</version>
-
-  <name>anusha_t-2originatots<name>
-
+ 	 <groupId>anjaneyulu</groupI
+  	<artifactId>anusha</artiifactId>
+  	<version>111197</version>
+ <name>calculator_addtion</name>
   <properties>
 	  <maven.compiler.source>1.6</maven.compiler.source>
 	  <maven.compiler.target>1.6</maven.compiler.target>
