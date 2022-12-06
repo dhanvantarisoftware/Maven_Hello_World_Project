@@ -2,9 +2,9 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>calculator</groupId>
-  <artifactId>addition</artifactId>
-  <version>1.0</version>
+  <groupId>prakash</groupId>
+  <artifactId>hanudeep</artifactId>
+  <version>16.08.1998</version>
 
   <name>calculator_addition</name>
 
@@ -63,7 +63,10 @@
                </goals>
             </execution>
           </executions>
-      </plugin>
+  </plugin>
+  <groupId>madhuri</groupId>
+  <artifactId>hanudeep</artifactId>
+  <version>16.08.1998</version>
         </plugins>
     </build>
 </project>
