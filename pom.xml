@@ -4,7 +4,7 @@
 
   <groupId>prakash</groupId>
   <artifactId>hanudeep</artifactId>
-  <version>16.08.1998</version>
+  <version>16/08/1998</version>
 
   <name>calculator_addition</name>
 
@@ -64,9 +64,6 @@
             </execution>
           </executions>
   </plugin>
-  <groupId>madhuri</groupId>
-  <artifactId>hanudeep</artifactId>
-  <version>16.08.1998</version>
         </plugins>
     </build>
 </project>
