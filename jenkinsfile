@@ -1,0 +1,18 @@
+Pipeline{
+Agent any 
+tools{
+maven “maven 3.8.4”
+}
+Stages{
+//Get the code from github Repo
+Stage(‘CheckoutCode’){
+Steps{
+https://github.com/laks1992/Maven_Hello_World_Project.git
+}
+}
+ //Do the Build
+Stage(‘Build’){
+Steps{
+Sh “mvn clean package”
+}
+}
